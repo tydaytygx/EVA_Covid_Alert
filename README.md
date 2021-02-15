@@ -7,3 +7,6 @@ An EVA style preset of Covid-19 warning
 + 配乐是Angel Attack 为避免版权问题 此处未投放
 ---
 ![avatar](https://cdn.jsdelivr.net/gh/tydaytygx/EVA_Covid_Alert/EVA_COVID-19_alert.gif)
+# 网盘渠道
++ 链接：/s/1TYuHx7vhBmgY_ZwCmot6bQ 提取码：yjhv
+ 
