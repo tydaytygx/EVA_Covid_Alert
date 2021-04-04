@@ -12,5 +12,7 @@ git clone https://github.com/tydaytygx/EVA_Covid_Alert
 ---
 ![avatar](https://cdn.jsdelivr.net/gh/tydaytygx/EVA_Covid_Alert/EVA_COVID-19_alert.gif)
 # 网盘渠道
-+ 链接：/s/1TYuHx7vhBmgY_ZwCmot6bQ 提取码：yjhv
++ s/1uvUFps2_fvNZsc-G0OZIUg 
+提取码：2r7b 
+
  
